@@ -1,0 +1,3 @@
+[submodule "fiskal-hr"]
+	path = fiskal-hr
+	url = https://github.com/stepanic/fiskal-hr
